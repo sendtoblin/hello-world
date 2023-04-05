@@ -1,8 +1,6 @@
 # hello-world
 Description Here
 
-
-#First
 ##Second
 ###Third
 
