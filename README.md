@@ -1,11 +1,11 @@
 # hello-world
 Description Here
 
-##Second
-###Third
+## Second
+### Third
 
-|Rank|Languages|
-|---"|---------|
+| Rank | Languages |
+|---:|---------|
 |1|Python|
 |2|C++|
 |3|Java|
